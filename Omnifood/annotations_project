@@ -1,0 +1,145 @@
+Starting a project from scrath
+__________________________________________
+
+1. Define your project
+    . what is it's goals
+    . what is it's audience
+
+2. Plan ou evereything
+    . plan your content: text, videos, icons, etc
+    . start thinking about visual hierarchy (design it with the content in mind)
+    . define the navigation
+    . define the site structure
+
+3. sketch your ideas before you design
+    . get inspired and think about your design
+    . get the ideas out of your head, sketch them
+    . make as many sketches as you want, but don't make it perfect
+    . never start designing without having a idea
+
+4. design and develop your website
+    . design your website using guidelines and tips you've learned in the webdesign section
+    . do that using HTML and CSS
+    . use the shit you got from steps 1, 2 and 3
+
+5. it's not done yet: optimizatiion
+    . optimize performance: site speed
+    . search engine optimizatiion (SEO) 
+
+6. launh the masterpiece
+    . all you need now is a webserver and a host
+
+7. site maintenance
+    . Monitor your users behavior and change your website if necessary
+    . update your content regularly
+
+    ______________________________________
+
+
+    STARTING THE PROJECT: OMNIFOOD
+
+    ______________________________________
+
+    1. 
+        Goals: show what Omnifood do, how it works, where does it operates. Then, make people sign up on a subscription plan
+
+        Audience: busy people who don't have time to cook or don't like it.
+    
+    2.  
+        One-page navigation style, with every info
+
+        Content: provided by Omnifood in text or images
+
+        Navigation: also provided by Omnifood in a doc
+
+    3. 
+        Inspire yourself and draw the ideas of how your website will be.
+        Remember: these are just ideas
+
+    4.
+        Design and develop your page
+
+        As for design, choose the best colors and fonts
+    
+    5. 
+        Separate your files into folders to organize your project. 
+
+    6.
+        Use Normalize.css to make the files render more consistently and in line to modern standards
+
+    7.
+        Build a responsive website that works on any device and with any screen resolution (mobile and desktop users)
+    
+    8.
+        download the css grid code from responsives grids, this way your website will try to fit in any resolution
+
+    9.
+        Use the site Flat UI Colors to grab colors that looks good on the website
+
+    10.
+        Use media queries and breakpoints (screen width) to make the website responsive (visible across all devices)
+
+        NOTE: we are gonna use breakpoints in the most commens widths out there but when we get more pro at it, we gonna want to use a breakpoint when our webpage looks terrible.
+
+    11.
+
+        After making the website, test it in multiple browsers 'cause every browser is differnet form one another.
+
+        CSS Browsers Prefixes
+        .Android: -webkit-
+        .Chrome: -webkit-
+        .iOS: -webkit-
+        .Safari: -webkit-
+        .Firefox: -moz-
+        .IE: -ms-
+        .Opera: -o-
+
+        Use the autoprefixer extesion for this
+
+    12. 
+        Using jQuery
+
+        Most popular js script
+        free
+        makes easier to manipulate HTML elements, create animations and develop ajax apps
+        usage of plugins to extends it's power
+
+        EG: we can create google maps app, youtube app, a image zoomer app, etc etc
+
+        To use it, go to the google hosted libraries
+
+    13.
+        Used in this project, jQuery plugin 'waypoints', used to call a fucntion when we scroll the screen
+    
+    14.
+        still on jQuery, we can grab snippets on google. basically, code that is already done that we can use
+    
+    15.
+        Try to downgrade the size of your images, taking in consideration the high res machines.
+        Use optimizilla for this also.
+
+    16. 
+        Also, we can minify the css code to delete white space.
+
+    17.
+        Search engine optimization (SEO)
+        Optimze how the website will show in the search engines like google etc 
+        we use the <meta> tag in the HTML for this
+
+    18. 
+        Valid HTML - use a website to validate your website (validatorw3)
+        used to check if our HTML code does not have any bugs
+
+    19.
+        Launching the website in the wild
+
+        .choose and buy a domain name (in this project - www.omnifood.com)
+        .buy a web hosting to host it
+        .upload the website
+
+        in the lecture, godaddy.com was used to buy the domain and host
+        
+
+
+
+    
